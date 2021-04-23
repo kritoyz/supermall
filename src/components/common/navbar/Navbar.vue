@@ -20,7 +20,7 @@ export default {
 
 <style>
 #navbar {
-  background-color: cornflowerblue;
+  background-color: salmon;
   color: white;
   height: 38px;
   box-shadow: 1px 1px 5px silver;
