@@ -19,5 +19,6 @@ export default {
   bottom: 0;
   background-color: #f6f6f6;
   box-shadow: 1px 1px 5px silver;
+  z-index: 999;
 }
 </style>

@@ -235,6 +235,7 @@ export default {
 }
 
 .swiper {
+  margin-top: 38px;
   display: flex;
 }
 
